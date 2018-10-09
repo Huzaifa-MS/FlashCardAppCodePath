@@ -1,0 +1,32 @@
+Beta#1
+
+Basics:
+- Perhaps put the Guide at the top of the steps because I got stuck at a part and searched the solution for it on another website 
+  instead of reading the entire step. 
+- Make "guide" capitalized to "GUIDE"
+- HUGE ISSUE?: My preview was not working and it may be the same for others. Apparently the file styles.xml with in which there is
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    should be    
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+    it was missing the 'Base.' part.
+    
+- On step 2 of the Workshop it said flashcard_answer but it should be falshcard_Question
+- Explain the difference of android:gravity vs android:textAlignment? Because textAlignment is given as a default
+- Adding the onClickListenser was confusing since it was my second project doing so. Telling that it should be inside
+  the OnCreate function would help.
+- Is there a video for how to use github? It should be made mandatory as Git is an essential resource.
+- Who to contact for help besides Team? Just post in main channel of slack? What is the procedure that's in place?
+- My question: what is R in R.Layout.activity_main ?
+- When trying to upload to Github my git.exe was not properly set because I downloaded it to a custom file path 
+  so it would be good to set a link to a tutorial for that.
+  
+Optional:
+- 1. Good.
+- 2. Good.
+- 3. Overall the guide makes sense. However The code blocks don't wrap and go off of the page and can't be understood. 
+     Perhaps Wrap them into the next line? I used inspect to see its content. I was using Google Chrome.
+- 4. Good.
+- 5. Same problem as 3. Also how do you reset the background colors for the textviews? how do you listen to a click made
+     made on the background view?
+- 6. Same problem as 3.
