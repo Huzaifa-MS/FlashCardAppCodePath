@@ -49,3 +49,21 @@ Optional:
 - [x] Further customize and style the card
 
 <img src="https://i.imgur.com/Ll5JBC2.gif" width="200" height="400" />  
+
+
+        // Lab2
+        // Basics
+        // should talk about the naming convention required for a new image Asset
+        // Mention that Constraint layout should be changed to Relative layout
+        // Guide doesn't mention how to put the data passed from Add inside textView in Main.
+        // ((TextView)findViewById(R.id.flashcard_question)).setText(string1);
+
+        // Optional
+
+        // 1. Need this to display code after getting from Main.
+        //        ((EditText) findViewById(R.id.QuestionText)).setText(prevQuestion);
+        // 2. Easy.
+        // 3. Unable to implement perhaps provide an example of what to do? what is parent view?
+        //                Snackbar.make(MainActivity, "Card Created", Snackbar.LENGTH_INDEFINITE).show();
+        // 4. Easy
+
